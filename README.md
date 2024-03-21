@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @canokcan
+- 👋 Hi, I’m Can Okta.
 - 📫 How to reach me: Feel free to connect with me on GitHub or drop me an email at [canokta@stu.khas.edu.tr].
 
 <!---
