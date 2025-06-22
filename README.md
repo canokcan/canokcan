@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Can Okta.
-- 📫 How to reach me: Feel free to connect with me on GitHub or drop me an email at [canokta@stu.khas.edu.tr].
+- 📫 How to reach me: Feel free to connect with me on GitHub or drop me an email at [canokta.contact@gmail.com], [canokta@stu.khas.edu.tr].
 
 <!---
 canokcan/canokcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
